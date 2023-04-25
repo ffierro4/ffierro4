@@ -2,7 +2,7 @@
 
 :book: I'm a trainee currently studying at [Hack Academy](https://ha.dev/).
 
-:speech_balloon: I spend around 8 hours a day learning a range of skills, including HTML, CSS, advanced JavaScript, command-line usage, Git, MySQL, Model-View-Controller architecture (MVC), MongoDB, REST APIs, JWT, SPAs, and React. I'm passionate about coding and love to work on personal projects outside class. 
+:speech_balloon: I spend around 8 hours a day learning a range of skills, including HTML, CSS, advanced JavaScript, Node.js, Express, command-line usage, Git, MySQL, Model-View-Controller architecture (MVC), MongoDB, REST APIs, JWT, SPAs, and React. I'm passionate about coding and love to work on personal projects outside class. 
 
 :speech_balloon: As someone who speaks both Spanish and English, I'm excited to collaborate with developers from all around the world. Looking forward to connect with the Github community!
 

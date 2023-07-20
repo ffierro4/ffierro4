@@ -4,6 +4,6 @@
 
 :inbox_tray: [LinkedIn](https://www.linkedin.com/in/facundo-fierro-de-vries-16325614b/)
 
-:inbox_tray: Gmail facundofierro49@gmail.com
+:inbox_tray: facundofierro49@gmail.com
 
 
